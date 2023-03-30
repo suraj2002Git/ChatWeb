@@ -1,0 +1,85 @@
+.part{
+    display: block;
+    margin: auto;
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+}
+.part1{
+    background-color: rgb(192, 234, 150);
+margin: auto;
+max-width: 1000px;
+height: 400px;
+color: white;
+overflow-y: auto;
+margin-bottom: 23px;
+}
+.message{
+   background-color: rgb(117, 109, 109);
+   width: 500px;
+   height: 50px;
+   padding: 10px;
+   margin: 20px;
+   border: 2px solid black;
+   border-radius: 5px;
+}
+.left{
+float: left;
+clear: both;
+}
+.right{
+float: right;
+clear: both;
+}
+
+#send-container{
+    display: block;
+    margin: auto;
+    text-align: center;
+    max-width: 1000px;
+    width: 100%;
+    
+}
+#messageInp{
+    width: 92%;
+    border: 3px solid black;
+    border-radius: 8px;
+    height: 40px;
+
+}
+.btn{
+    cursor: pointer;
+    border: 3px solid black;
+    border-radius: 6px  ;
+    height: 40px;
+    width: 60px;
+}
+.btn:hover{
+    background-color:green ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
